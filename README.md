@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisrivas35&label=Profile%20views&color=0e75b6&style=flat" alt="luisrivas35" /> </p>
 
-- 🌱 I’m currently learning **AWS Solutions Architect Assoc.**
+- 🌱 I’m currently learning **Kubernetes Certified Application Developer (CKAD)** **AWS Solutions Architect Assoc.** 
 
 - 📫 How to reach me **xluisrivas@gmail.com**
 
