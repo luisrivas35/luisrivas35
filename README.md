@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning:
   -  **Kubernetes Certified Application Developer (CKAD)**
-  -  **AWS Solutions Architect Assoc.** 
+  -  **JavaScript Express.js** 
 
 - 📫 How to reach me **xluisrivas@gmail.com**
 
