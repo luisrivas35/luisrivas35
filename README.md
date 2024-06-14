@@ -37,15 +37,8 @@ About to be DevOps Engineer: [DevOps RoadMap](https://roadmap.sh/r/devops-fork-i
 - Email: [xluisrivas@gmail.com](mailto:xluisrivas@gmail.com)
 
 
----
-
 &copy; 2024 Luis Manuel Rivas Mendez. All rights reserved.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/luisrivas35/)
-
-
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/luisrivas35/](https://www.linkedin.com/in/luisrivas35/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
